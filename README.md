@@ -10,8 +10,8 @@
 * __STT:__
 * __Chủ đề seminar:__ 
 
-|**STT**|**Tên**|**MSSV**|**Gmail**|
-|:---|:---|:---|:---|
-|1|Trần Minh Đạt|19521352|19521352@gm.uit.edu.vn|
+|**STT**|**Tên**|**MSSV**|**Gmail**|**Github**|
+|:---|:---|:---|:---|:---|
+|1|Trần Minh Đạt|19521352|19521352@gm.uit.edu.vn|https://github.com/19521352|
 
 ## Nội dung thuyết trình:
