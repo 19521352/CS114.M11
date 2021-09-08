@@ -4,8 +4,8 @@
 * __Mã môn học:__ CS114
 * __Mã lớp:__ CS114.M11
 * __Giảng viên:__ 
-__Lê Đình Duy - duyld@uit.edu.vn__
-__Phạm Nguyễn Trường An - truonganpn@uit.edu.vn__
++ Lê Đình Duy - duyld@uit.edu.vn
++ Phạm Nguyễn Trường An - truonganpn@uit.edu.vn
 ## Thông tin nhóm
 * __STT:__
 * __Chủ đề seminar:__ 
