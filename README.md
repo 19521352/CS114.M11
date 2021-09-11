@@ -13,5 +13,6 @@
 |**STT**|**Tên**|**MSSV**|**Gmail**|**Github**|
 |:---|:---|:---|:---|:---|
 |1|Trần Minh Đạt|19521352|19521352@gm.uit.edu.vn|https://github.com/19521352|
+|2|Nguyễn Văn Vinh|19522525|19522525@gm.uit.edu.vn|https://github.com/RazLuBo|
 
 ## Nội dung thuyết trình:
