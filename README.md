@@ -14,5 +14,6 @@
 |:---|:---|:---|:---|:---|
 |1|Trần Minh Đạt|19521352|19521352@gm.uit.edu.vn|https://github.com/19521352|
 |2|Nguyễn Văn Vinh|19522525|19522525@gm.uit.edu.vn|https://github.com/RazLuBo|
+|3|Nguyễn Trí Tài|19522572|19522572@gm.uit.edu.vn|https://github.com/rotom009|
 
 ## Nội dung thuyết trình:
