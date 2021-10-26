@@ -7,7 +7,7 @@
   + Lê Đình Duy - duyld@uit.edu.vn
   + Phạm Nguyễn Trường An - truonganpn@uit.edu.vn
 ## Thông tin nhóm
-* __STT:__
+* __Tên Nhóm:__ III
 * __Chủ đề seminar:__ 
 
 |**STT**|**Tên**|**MSSV**|**Gmail**|**Github**|
